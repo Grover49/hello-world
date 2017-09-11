@@ -1,2 +1,2 @@
 # hello-world
-Entry in to the world of Git
+Entry into the world of Git
